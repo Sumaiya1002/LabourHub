@@ -1,0 +1,104 @@
+body{
+	
+	font-family: arial;
+	background-size: cover;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/bacg_signin.jpg);
+	
+
+
+}
+
+.form-control
+{
+	min-height: 30px;
+	min-width: 400px;
+	border-style: inset;
+	background-color: #fff;
+	margin-bottom: 0px;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+	outline: none;
+	font-weight: bold;
+
+	
+
+}
+input[type=text] {
+  
+  border-bottom: 1px solid #999;
+}
+
+.btn{
+	border-radius: 3px;
+	padding: 8px 8px 8px;
+	margin-left: 300px;
+
+}
+
+.form-header{
+	margin: -30px -30px 20px;
+	padding: 2px 2px 2px;
+	text-align: center;
+	color: #38b44e;
+
+
+}
+.form-header h2{
+	font-size: 25px;
+	font-weight: bold;
+	margin: 3 0 10px;
+	font-family: arial;
+}
+
+
+.signin-form{
+	width: 500px;
+	margin: 0,auto;
+	padding: 30px 0;
+	margin: 80px 80px 0px 0px; 
+	float: right;
+
+
+
+}
+.signin-form form{
+	color: #fff;
+	margin-bottom: 15px;
+	border-radius: 3px;
+	box-shadow: 0px 2px 2px rgb(0,0,0,0.3);
+	padding: 30px;
+	background-color: #fff;
+
+}
+.signin-form .form-group{
+	margin-bottom: 20px;
+
+}
+
+
+.signin-form .btn{
+	font-size: 16px;
+	font-weight: bold;
+	background-color: #00cb82;
+	border:none;
+	color: #fff;
+	min-width: 100px;
+}
+.btn:hover{
+	background-color: #00b073 !important;
+	outline: none;
+}
+
+.text-center{
+	font-size:15px;
+	color:#000;
+}
+.signin-form a{
+	color: #38b44e;
+	text-decoration:none;
+}
+.signin-form a:hover{
+	text-decoration: underline;
+}
