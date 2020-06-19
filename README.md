@@ -1,0 +1,2 @@
+# LabourHub
+In this project we want to create a website for those people who are busy in their life and don't have time for do household work or they need help hand.we can give them these facilities by this website. For example one man(Mr.X) need a painter for painting his house he can post a for it in our website and on the otherhand a painter who is looking for job he can see the post and apply for it and also do the job easily. And Mr X can get a painter easily anytime.
